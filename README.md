@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CRUD con Vue.js y Laravel
 
 Este proyecto es un CRUD sencillo desarrollado con Vue.js y Laravel para gestionar posts. Incluye funcionalidad de crear, leer, actualizar y eliminar registros con una interfaz limpia utilizando Tailwind CSS.
@@ -47,4 +46,3 @@ git push -u origin main
 =======
 # vue-crud
 CRUD simple realizado con Vue js, utilizando Typescript, Axios y Tailwind css
->>>>>>> bbc14f0ae1a44808f2c8ed90dffad2bd63569603
